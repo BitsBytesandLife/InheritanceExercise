@@ -4,9 +4,9 @@ using System.Text;
 
 namespace Inheritance
 {
-    // Create a class Reptile
-    // give this class 4 members that are specific to Reptile
-    // Set this class to inherit from your Animal Class
+    // Create a class Reptile - Done
+    // give this class 4 members that are specific to Reptile - Done
+    // Set this class to inherit from your Animal Class - Done
     public class Reptile : Animal
     {
         public string SkinColor { get; set; }
